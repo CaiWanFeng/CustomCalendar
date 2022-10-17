@@ -6,7 +6,7 @@
 
 如果需要源码或者帮你实现，请添加微信：
 
-![weichat](contact.png)
+![wechat](wechat.png)
 
 ---
 
